@@ -16,11 +16,11 @@ There is a heirarchy to these web URL that the DNS server providers translation 
 ## Task 3
 There are many different record types for DNS, many of these record types are just for the DNS to reference but others can also be viewed and understood by people
 
-**A record** Resolves IPv4 addresses
-**AAAA record** Resolves IPv6 addresses
-**CNAME record** Is used to give your domain name an alias or another name to reference it by
-**MX record** Is a record used for handling mail
-**TXT Record** Are the records that can be read by humans where any type of useful information can be stored
+**A record** Resolves IPv4 addresses                                                                                                                       
+**AAAA record** Resolves IPv6 addresses                                                                                                                     
+**CNAME record** Is used to give your domain name an alias or another name to reference it by                                                               
+**MX record** Is a record used for handling mail                                                                                                           
+**TXT Record** Are the records that can be read by humans where any type of useful information can be stored                                               
 
 * What type of record would be used to advise where to send email? **MX**
 * What type of record handles IPv6 addresses? **AAAA**
