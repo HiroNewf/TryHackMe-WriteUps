@@ -3,6 +3,6 @@ I like messing around and learning things with the site TryHackMe and this will 
 
 | Room Name   | Topics        | Difficulty | Room Creator |
 | ----------- |:-------------:|:----------:|:------------:|
-| col 3 is      | right-aligned | $1600 |
+| DNS in detail| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
