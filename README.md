@@ -1,5 +1,5 @@
 # TryHackMe-WriteUps
-I like messing around and learning things with the site TryHackMe and this will be some of my write ups for rooms on there. TryHackMe room have a few levels of difficulty and these write ups will be broken up into folders based on the rooms difficulty. Here on this readme will simply be the names of all of the rooms I have done write ups for and there difficulty level so you can easily locate them. 
+I like messing around and learning things with the site TryHackMe and this will be some of my write ups for rooms on there. TryHackMe room have a few levels of difficulty and these write ups will be broken up into folders based on the rooms difficulty. Here on this readme will simply be a chart showing all the rooms I have done write-ups for along with a bit of data about each room.
 
 | Room Name   | Topics        | Difficulty | Room Creator |
 | :---------: |:-------------:|:----------:|:------------:|
