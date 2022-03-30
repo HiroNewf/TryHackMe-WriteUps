@@ -27,6 +27,7 @@ There are many different record types for DNS, many of these record types are ju
 
 ## Task 4
 In order to get a response from a DNS server with the information you requested many different types of servers need to queried. This graph shows a basic overview of what that looks like 
+
 ![dns](https://user-images.githubusercontent.com/64501695/160916325-3c2a6589-f811-498d-b27a-7d9b457e07db.png)
 * What field specifies how long a DNS record should be cached for? **TTL**
 * What type of DNS Server is usually provided by your ISP? **recursive**
