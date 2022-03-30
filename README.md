@@ -3,5 +3,5 @@ I like messing around and learning things with the site TryHackMe and this will 
 
 | Room Name   | Topics        | Difficulty | Room Creator |
 | ----------- |:-------------:|:----------:|:------------:|
-| DNS in detail| DNS, IP, Records | Easy | 
-| OSI Model   | Layers and functions of the OSI model   | Easy |
+| [DNS in detail](https://github.com/HiroNewf/TryHackMe-WriteUps/blob/main/Easy/DNS%20in%20detail.md)| DNS, IP, Records | Easy | [TryHackMe](https://tryhackme.com/p/tryhackme)
+| [OSI Model](https://github.com/HiroNewf/TryHackMe-WriteUps/blob/main/Easy/OSI%20Model.md)| Layers and functions of the OSI model | Easy | [cmnatic](https://tryhackme.com/p/cmnatic)
