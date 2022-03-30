@@ -4,5 +4,4 @@ I like messing around and learning things with the site TryHackMe and this will 
 | Room Name   | Topics        | Difficulty | Room Creator |
 | ----------- |:-------------:|:----------:|:------------:|
 | DNS in detail| DNS | Easy | 
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| OSI Model   | Layers and functions of the OSI model   | Easy |
